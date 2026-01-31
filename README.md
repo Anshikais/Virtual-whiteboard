@@ -22,13 +22,13 @@ This project allows users to draw, write, and interact visually on a digital whi
 - **JavaScript (ES6)** – Core logic and interactions  
 - **React.js** – Component-based UI development
 - ## ▶️ How to Run the Project
+- - **Vite** – Fast development and build tool
 
-1. Clone the repository:
-   ```bash
+
+## 📂 Project Structure
    git clone https://github.com/Anshikais/Virtual-Whiteboard.git
-- **Vite** – Fast development and build tool
 
 ---
 
-## 📂 Project Structure
+
 
